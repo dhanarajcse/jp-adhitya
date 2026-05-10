@@ -160,7 +160,8 @@ function showPage(id) {
             <br/>
             <p>📞 +91-8667250719</p>
             <p>📧 jprajkamal@gmail.com</p>
-            <p>📍 Pethanaickenpalayam, Attur</p>
+            <p>📍 Mani complex, Near Talluk Office</p>
+             <p>📍Pethanaickenpalayam, Attur</p>
             <p>📍 Salem District, Tamil Nadu</p>
 
          <a href="https://wa.me/918667250719" target="_blank" style="
